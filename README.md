@@ -4,10 +4,12 @@
 - 🌱 Atualmente estou a aprender HTML, CSS e Batch, mas em necessidade consigo mexer em tudo um pouco
 - 💻 Eu gosto de computadores, ciências, natureza, entre outras coisas...
 - 💡 *A necessidade é a mãe de todas as ideias!*
+
 <div align="center" style="display: inline;">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dario-gv&show_icons=true&theme=dark">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dario-gv&layout=compact&theme=dark">
+    <img style="display: inline;" height="150em" src="https://github-readme-stats.vercel.app/api?username=dario-gv&show_icons=true&theme=dark">
+    <img style="display: inline;" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dario-gv&layout=compact&theme=dark">
 </div>
+
 <div style="display: inline-block;">
   <br>
   <a href="https://github.com/dario-gv">

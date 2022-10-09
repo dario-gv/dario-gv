@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou a aprender HTML, CSS e Batch, mas em necessidade consigo mexer em tudo um pouco
 - 💻 Eu gosto de computadores, ciências, natureza, entre outras coisas...
 - 💡 *A necessidade é a mãe de todas as ideias!*
-<div align="center">
+<div align="center" style="display: inline-block;">
   <br>
   <a href="https://github.com/dario-gv">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dario-gv&show_icons=true&theme=dark">

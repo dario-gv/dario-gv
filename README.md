@@ -7,8 +7,8 @@
 
 <div align="center" style="display: inline;">
     <a href="https://github.com/dario-gv">
-        <img style="display: inline;" height="150em" src="https://github-readme-stats.vercel.app/api?username=dario-gv&show_icons=true&theme=dark">
-        <img style="display: inline;" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dario-gv&layout=compact&theme=dark">
+        <img style="display: inline;" height="150em" src="https://github-readme-stats.vercel.app/api?user=dario-gv&show_icons=true&theme=dark">
+        <img style="display: inline;" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?user=dario-gv&layout=compact&theme=dark">
     </a>
 </div>
 

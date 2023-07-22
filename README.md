@@ -1,14 +1,4 @@
 ## 👋 Olá, eu sou o Dário (@dario-gv)
 - 📍 Sou de Portugal 🇵🇹
 - 📚 Eu sou um estudante e programo como um passatempo/hobby
-- 🌱 Atualmente estou a aprender HTML, CSS e Batch, mas em necessidade consigo mexer em tudo um pouco
 - 💻 Eu gosto de computadores, ciências, natureza, entre outras coisas...
-- 💡 *A necessidade é a mãe de todas as ideias!*
-
-<div style="display: inline-block;">
-  <br>
-  <a href="https://github.com/dario-gv">
-    <img align="center" alt="CSS" widht="60" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="HTML" widht="60" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  </a>
-</div>
